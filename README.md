@@ -1,5 +1,5 @@
 # blackjack
-blackjack game for assignment 1
+A single player game with MVC pattern.
 
 Speed21!
 
@@ -24,8 +24,8 @@ Help -> AboutGame
 
 3) Two "Add Player" button , one in toolbar and other in Edit menu
 
-Game Explanation:
-=====================
+Game Explanation(use case):
+==========================
 
 1) User can add player by pressing "Add Player"(either in tool bar or  from Edit menu). User can pass name and total points
 2) User can play game by pressing "Play Game", that takes bet points before starting game.
