@@ -1,0 +1,28 @@
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl nextCardImpl
+FINE: Player: The Shark, card=Suit: Hearts, Value: King, Score=10
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl nextCardImpl
+FINE: Player: The Shark, card=Suit: Spades, Value: Ace, Score=1
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl nextCardImpl
+FINE: Player: The Shark, card=Suit: Hearts, Value: Ten, Score=10
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl resultImpl
+INFO: Player: The Shark, final result=21
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl nextCardImpl
+FINE: Player: The Loser, card=Suit: Hearts, Value: Three, Score=3
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl nextCardImpl
+FINE: Player: The Loser, card=Suit: Diamonds, Value: King, Score=10
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl bustCardImpl
+FINE: Player: The Loser, card=Suit: Spades, Value: Queen, Score=10 ... YOU BUSTED!
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl resultImpl
+INFO: Player: The Loser, final result=13
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl nextCardImpl
+FINE: Player: House, card=Suit: Clubs, Value: Seven, Score=7
+Feb 13, 2017 4:25:39 PM model.GameEngineCallbackImpl nextCardImpl
+FINE: Player: House, card=Suit: Clubs, Value: Four, Score=4
+Feb 13, 2017 4:25:40 PM model.GameEngineCallbackImpl nextCardImpl
+FINE: Player: House, card=Suit: Spades, Value: King, Score=10
+Feb 13, 2017 4:25:40 PM model.GameEngineCallbackImpl resultImpl
+INFO: Player: House, final result=21
+Feb 13, 2017 4:25:40 PM view.Client main
+INFO: Player: id=1, name=The Shark, points=1000, result=21, bet=0
+Feb 13, 2017 4:25:40 PM view.Client main
+INFO: Player: id=2, name=The Loser, points=400, result=13, bet=0
